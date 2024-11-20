@@ -1,0 +1,11 @@
+@media(max-width:420px){
+    .sui-chain{
+        padding: 7px 120px;
+    }
+    .run-text{
+        font-size: 13px;
+    }
+    .content-text{
+        font-size: 28px;
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../meme coin"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sealdog"
+	}
+}
